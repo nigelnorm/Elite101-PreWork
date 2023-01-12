@@ -65,3 +65,4 @@ Store hours are set between ___ and ___
 To check if user was using the shop within store hours the .__date-time__. library was used to collect a users time(by hours) and compare it to actual store hours. 
 If it was within store hours, the chatbot would give a .__positive message__.. If not, it will give a __. negative meassage.__.
 ### Products
+Change for the class
