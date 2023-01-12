@@ -1,4 +1,4 @@
-# Elite101-PreWork
+# Elite101-PreWork(Collaboration)
 This repository contains my pre-work project for the Elite 101 course at Code2College.
 The pre-work is a python chatbot. I chose the scenario:  create a simple chatbot for a retail store that can answer customers' frequently asked questions about store hours, location, available products, and prices.
 This line is added from Repl.it.
@@ -62,6 +62,6 @@ This line is added from Repl.it.
 I picked a random location to set as the store location.
 ### Store Hours
 Store hours are set between ___ and ___
-To check if user was using the shop within store hours the .__date-time__. library was used to collect a users time(by hours) and compare it to actual store hours. 
-If it was within store hours, the chatbot would give a .__positive message__.. If not, it will give a __. negative meassage.__.
+To check if user was using the shop within store hours the __date-time__. library was used to collect a users time(by hours) and compare it to actual store hours. 
+If it was within store hours, the chatbot would give a __positive message__ . If not, it will give a __negative meassage__.
 ### Products
